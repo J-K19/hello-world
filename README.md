@@ -1,6 +1,5 @@
 # hello-world
 
-Hi Humans!
+Hello I am James Kontos 
 
-This is my starter hello-world project
-I am a very intelligent person that loves snacks and hot dogs from portillo's
+
